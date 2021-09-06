@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## What is Rules as Code?
 
-You can use the [editor on GitHub](https://github.com/Lexpedite/RulesAsCodeSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Rules as Code is a movement in the field of computational law focused the methods and benefits of automating written legal rules. The international conversation around
+rules as code has grown in the last several years, particularly in the field of public administration.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is RulesAsCode.com?
 
-### Markdown
+RulesAsCode.com is intended as a global open source repository and forum for people who are interested in learning about or contributing to the Rules As Code movement. The hope is to support and grow the burgeoning Rules As Code community around the world.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Initially, it will consist of this splash page and an online forum.  We hope to expand the resources available over time with contributions from the Rules as Code community.
 
-```markdown
-Syntax highlighted code block
+## Who is RulesAsCode.com For?
 
-# Header 1
-## Header 2
-### Header 3
+The Rules As Code community is international, and interdisciplinary. You will find this a useful resource if you:
 
-- Bulleted
-- List
+* design, write, read, think about, or follow formally-written legal rules like laws, regulations, and contracts; and
+* you would like to have more help from technology in doing those tasks more easily or more successfully.
 
-1. Numbered
-2. List
+More specifically, Rules as Code will be of interest to people with the following sorts of roles or responsibilities:
 
-**Bold** and _Italic_ and `Code` text
+* Legal Service Professionals
+* Court Administrators
+* Software Developers
+* Legislative Drafters
+* Contract Drafters
+* Compliance Experts
+* Regulators
+* Public Sector Administrators
+* Policy Experts
+* many, many more
 
-[Link](url) and ![Image](src)
-```
+Rules As Code touches on the fields of Law, Computing Science, Philosophy, Public Administration, Game Design, Smart Contracts, and more.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## How Can I Participate?
 
-### Jekyll Themes
+We are in the process of configuring a user-moderated online forum at [talk.rulesascode.com](https://talk.rulesascode.com) to share news, events, resources, and ideas.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lexpedite/RulesAsCodeSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you would like to propose changes to this page, please submit a pull request at our [github site](https://github.com/Lexpedite/RulesAsCodeSite).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any other suggestions can be sent to [info@rulesascode.com](mailto:info@rulesascode.com).
