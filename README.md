@@ -11,7 +11,7 @@ RulesAsCode.com is intended as a global open source repository and forum for peo
 
 Initially, it will consist of this splash page and an online forum.  We hope to expand the resources available over time with contributions from the Rules as Code community.
 
-## Who is RulesAsCode.com For?
+## Who is Rules as Code for?
 
 The Rules as Code community is international, and interdisciplinary. You will find this a useful resource if you:
 
