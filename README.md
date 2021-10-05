@@ -2,7 +2,7 @@
 
 ## What is Rules as Code?
 
-Rules as Code is a movement in the field of computational law focused the methods and benefits of automating written legal rules. The international conversation around
+Rules as Code is an interdiscplinary and computational approach to the life-cycle of formal written rules. It calls for the encoding of rules in computer languages as early as possible in that life-cycle, and using the encodings to improve policy design, drafting, communication, implementation, and automation of services that are compliant with those rules. The international conversation around
 rules as code has grown in the last several years, particularly in the field of public administration.
 
 ## What is RulesAsCode.com?
